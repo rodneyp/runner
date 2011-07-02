@@ -1,0 +1,19 @@
+something like runkeeper, but use runmaker as an input
+open interface, api, storage to allow easy expansion
+demo program for fun and experimentation with heroku and rails
+
+
+initial ideas:
+
+set up runmaker to email to runner and track the run info
+
+runner will:
+  save the run data
+  update a calendar
+  total the info by week/month, etc
+  track shoes
+
+some sort of interface with twitter might be nice
+
+save the data in S3 with weekly copies someplace
+
